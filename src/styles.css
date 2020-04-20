@@ -1,0 +1,23 @@
+.card-item{
+    font-size: small;
+    
+}
+.filter{
+    font-size: small;
+}
+.card,.form-control, .btn{
+    border-radius: 4px;
+    margin-top: 20px;
+}
+
+.product-btn{
+     font-size: smaller;
+}
+
+.navbar{
+    margin-right: 50px;
+}
+
+.search{
+    text-align: center;
+}
